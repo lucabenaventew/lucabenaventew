@@ -10,13 +10,13 @@
       <b>
         Hello There
       <br>
-        I'm Luca, a Student, and Linux enthusiast.
+        I'm Luca Benavente Wilson, a Student, and Linux enthusiast.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=FB8500&center=true&vCenter=true&lines=Simplicity+is+the+soul+of+efficiency.">
       <br>
       <b>
-        ~ Luca Benavente Wilson ~
+        ~ Austin Freeman ~
       </b>
     </samp>
   </p>
