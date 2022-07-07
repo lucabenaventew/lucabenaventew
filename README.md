@@ -1,16 +1,92 @@
-### Hi there 👋
 
+
+<!-- Rxyhn's Aesthetic GitHub Profile -->
+<div align="justify">
+
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Luca, a Student, and Linux enthusiast.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=FB8500&center=true&vCenter=true&lines=Simplicity+is+the+soul+of+efficiency.">
+      <br>
+      <b>
+        ~ Luca Benavente Wilson ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
+
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+<h2></h2><br>
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+    [<a href="https://twitter.com/BenaventeLuca">twitter</a>]
+    [<a href="https://instagram.com/lucabenaventew">instagram</a>]
+    [<a href="mailto:luca.benavente@grupoapolo.com">e-mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
+<!-- Languages and Technologies -->
+
+```javascript
+const Luca = {
+  code: {
+    languages: ["JavaScript", "HTML5", "CSS3", "Lua"],
+    frameworks: ["ReactJS"],
+    databases: ["Ruby on Rails"],
+    versionControl: ["Git", "GitHub"],
+    editors: "NeoVim" | "Visual Studio Code",
+  },
+  operatingSystem: ["Arch Linux", "Ubuntu"],
+  askMeAbout: ["Web Dev", "Tech", "Linux", "Unix",],
+  funFact: "I am a perfectionist when it comes to my work"
+};
+```
+
+<h2></h2><br>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <samp>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=lucabenaventew&color=orange&style=flat-square" alt="profile views" /> 
+  </a>
+  </samp>
+</p>
+
+<!-- Github Trophy -->
 <!--
-**lucabenaventew/lucabenaventew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="x"></a></td>
+    </tr>
+  </table>
+</div> -->
 
-Here are some ideas to get you started:
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucabenaventew&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabenaventew&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+</div>
