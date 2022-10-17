@@ -8,12 +8,12 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        
       <br>
-        I'm Luca Benavente Wilson, a Student, and Linux enthusiast.
+        
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=FB8500&center=true&vCenter=true&lines=Simplicity+is+the+soul+of+efficiency.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2500&pause=1000&color=FF9F1C&width=500&lines=Hello+There%2C+I'm+Luca+Benavente%2C;a+Full+Stack+Dev+and+Linux+enthusiast.">
       <br>
       <b>
         ~ Austin Freeman ~
