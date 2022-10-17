@@ -13,7 +13,7 @@
         ~ Linus Torvalds ~
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2500&pause=1000&color=FF9F1C&width=500&lines=Hello+There%2C+I'm+Luca+Benavente%2C;a+Full+Stack+Dev+and+Linux+enthusiast.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=2500&pause=1000&color=FF9F1C&width=500&lines=Hello+There%2C+I'm+Luca+Benavente%2C;a+Full+Stack+Dev+and+Linux+enthusiast.">
       <br>
       <b>
         Available for hiring and for freelance projects.
